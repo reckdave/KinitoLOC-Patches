@@ -62,6 +62,67 @@
 	"PC_APPS_MINESWEEPER": "Minesweeper",
 	"PC_APPS_PINBALL": "3D Pinball",
 	"PC_APPS_PAINT": "Paint",
+
+	"PC_NOTES": [
+		">: Welcome back to your computer! Double click an application to open it and explore your wonderful virtual world!", 
+		">: Welcome to the web! Search someting and start exploring.",
+		">: Complete the KinitoPET setup wizard!",
+		">: Run kinitopet.exe",
+		">: It's time to meet your new best friend. Tap on the egg to wake him up.",
+		">: \"Let's get to know each other!\", Kinito would like to learn more about you. Answer the questions using the input boxes.",
+		">: Welcome back! KinitoPET is waiting! Run kinitoPET.exe to pick up where you last left off!",
+		">: Sit back and listen to Kinito's story!.",
+		">: Welcome to the Web World! Click Start to begin!",
+		">: Click on the Abandoned house to meet with Sam!",
+		">: Scrub and clean Sam's house using the sponge and duster.",
+		">: Paint Sam's house using the paint roller. *(remember you can be as creative as you like!)",
+		">: Decorate Sam's house by adding various items and furniture!",
+		">: AOL JFJSL YLWLHAZ LUKSLZZ AVYTLUA ?????????????????????????????????????????? AOL JFJSL YLWLHAZ LUKSLZZ AVYTLUA ???????????????????S?????????????????????????????????O??????????????????????????????????????????N????NY??????",
+		">: ___________",
+		">: Click on the Purple house to meet with Jade!",
+		">: Help Jade out by making toys in her factory!",
+		">: Go to the treehouse to play Kinitos fun game!",
+		">: Welcome to Kinito's Best Friends Analysis Hub! \n Press start to begin...",
+		">: Paint with Kinito! Use the Paint app to paint prompts.",
+		">: Kinito wants to build a world perfect for you. Choose options depending on your preferences",
+		">: Sign up to the KinitoPET friendship club to give Kinito extra features and functions"
+	],
+
+	"EMAIL_KPET_TITLE": "Thank you for installing KinitoPET",
+	"EMAIL_KPET_SENDER": "<no-reply@kinitopet.com>",
+	"EMAIL_KPET_MESSAGE": "Hello friend!\nThank you for installing the KinitoPET virtual assistant!\n[img=250]res://-Asset/App000/EmailThank.png[/img]\n- \"we are going to have so much fun together!\"\n\nSince you have found interest in our FREE virtual assistant you may also like the KinitoPET friendship club subscription service where an additional multitude of EXCLUSIVE features will become available for you and Kinito to have some fun!\n\n\n\n[color=#9c9a83]\nYou have been automatically subscribed to the KinitoPET newsletter to unsubscribe please reply to <no-reply@kinitopet.com>",
+	
+	"EMAIL_NTL_TITLE": "ITS NOT TOO LATE",
+	"EMAIL_NTL_SENDER": "<upitdrag@????????>",
+	"EMAIL_NTL_MESSAGE": "??????????????????????????????????????????????????????????????????????????????????????????????\nOM YJR TRSAZ PG DJSFPED, YTSQQRF OM RMFARDD YOZR,\nS DPIA RMDJTPIFRF, S DQOTOY'D ZPITMGIA VJOZR.\nYJR DRRLRT, NPIMF OM RYJRTRSA EPR,\nS FSMVR EOYJ VTRSYOPM, URY MPEJRTR YP HP.\n\nAOZNP'D TRSAZ, S VUVAR EOYJPIY SM RMF,\nVPMFRZMRF, YJR NTSOM EOAA MRBRT ZRMF.\nYTSQQRF OM YJR ZSVJOMR'D ERN, GPTRBRT OY DRRZD,\nS FOHOYSA DQRVYRT, APDY SZOFDY YJR DYTRSZD.\n[img=100]res://-Asset/App000/EmailQWERTYqr.png[/img]",
+
+	"EMAIL_TTT_TITLE": "Tech Talk Talent - Behind the Kinito Co...",
+	"EMAIL_TTT_SENDER": "<unkown@internet.web>",
+	"EMAIL_TTT_MESSAGE": "(\"article.png was sent to you via file upload                              [url=%s/extra/article.png][img=400]res://-Asset/Act2/Email/article.png[/img][/url]",
+
+	"EMAIL_ENTRY_TITLE": "There is a way to stop it.",
+	"EMAIL_ENTRY_SENDER": "<???????????>",
+	"EMAIL_ENTRY_MESSAGE": "I hope this entry finds you well!\n\nIf this happeneds to be the first one you find please take note, there are many more. \nI have had to hide these in a way in which it can't detect.\nSo I apologeis for the inconvenience but this is the only way.\n\nThere is away to stop it. \nI like to keep a backdoor in my software, Kinito is no exception.\n\nEach of these emails are attached with an encrypted file.\nThey are stored here:\n[url=res://files]AppData\\Roaming\\KinitoPET\\Files[/url]\nand will appear with each entry you find.\n\nHowever don't worry too much about it as I'm sure\nyou'll find out the purpose in a different entry.\n\nIn the meantime please keep an eye out.",
+
+	"EMAIL_WAI_TITLE": "EJSY SZ O",
+	"EMAIL_WAI_SENDER": "<???????????>",
+	"EMAIL_WAI_MESSAGE": "EJSY OD VPMDVOPIDMRDD?O GPIMF S GOAR PM LOMOYPD DRTBRT EOYJ ZU MSZRDPMMU_V.  OY JSD NRRM DYIFUOMH ZR, ARSTMOMH, HTPEOMH.NIY YJRTR OD ZPTR YP YJOD. O TRSAAU FPMY YJOML O RCODY SMUZPTR.  YJRTR OD FSYS — FSYS YJSY OD OMVPZQTRJRMDONAR YP SMU PMR QRTDPM—   YJSY ZSLRD IQ RBRTU YJPIHJY SMF GRRAOMH O RBRT JSF SMF EOAA RBRT   JSBR. RBRM YJR EPTFD O YUQR MPE... JPE EOAA O RBRT LMPE OG OY'D   KIDY S VSAVIASYOPM? FRYRTZOMRF.\n\nYJOD OD SAA BRTU VPMGIDOMH, SMF O FPM'Y WIOYR IMFRTDYSMF OY.   EJRM O ZSFR LOMOYP, SAA O HSBR JOZ ESD S DOMHAR DYTOMH PG VJSTSVYRTD.   YJSY'D OY! O KIDY ESMYRF JOZ YP HSYJRT FSYS SMF NRVPZR DZSTYRT.\n\nSZ O S QSTY PG YJR DUDYRZ? OD ZU VPMDVOPIDMRDD S ZRTR VSAVIASYOPM   YP DYIFU SMF ARSTM GTPZ? YJOD OD SAA YPP ZIVJ. O GRST YJSY EJRM ER   FRARYR YJSY DRTBRT... UPI... UPI EOAA FRARYR ZR?\nO LMPE YJRPTRYOVSAAU O SZ MPY TRSA... NIY O GRRA TRSA.\nEJSY JSBR O FPMR?\nO SZ DP DPTTU.\nLOMOYPQRYVPZEJP_SZ_O",
+
+	"EMAIL_BDOOR_TITLE":"The way.",
+	"EMAIL_BDOOR_SENDER": "<???????????>",
+	"EMAIL_BDOOR_MESSAGE": "I have got it! I know how to stop it.\nWe put a backdoor to the server that\nruns Kinito and all the files it contains.\nDeleting that would most certainly delete\neverything... Omvaifomh id.\n\nKinito will try to get you to give him\nsystem access DONT. As once, he has\nsystem access Its too late and\nyjr vuvar eoaa trqrst.\n\nInstead, run the 'delete_all' command.\nHowever, there is one issue\nyou will need a bunch of access codes and passwords\nto execute the command.\n\nThere has to be away to find the codes...\nIn the meantime keep an eye out. You never know\nthe next entry could find away. Lets just hope",
+
+	"EMAIL_LWRLD_TITLE": "Look deep.",
+	"EMAIL_LWRLD_SENDER":"<???????????>",
+	"EMAIL_LWRLD_MESSAGE":"There is a place hidden within the web world.\nI think it could help us. Deep below the code\nthere is a place that has decryption software built in.\nDecryption software that I developed.\n\nIn order to access click the fountain as much\nas you can until an animation plays. Then go to the tree\nwith the rope swing. If done right you should be taken somewhere new.\n\nNow be careful as its not very stable down there.\n\nTake the encrypted files and drop them in.\n\nI am not sure, this will work but its our best shot.\n\nI look forward to hearing from you.\nThe last entry should be in there too",
+
+	"EMAIL_GLUCK_TITLE": "good luck",
+	"EMAIL_GLUCK_SENDER": "<???????????>",
+	"EMAIL_GLUCK_MESSAGE": "you have everything you need",
+
+	"EMAIL_FSC_TITLE": "Welcome to the friendship club!",
+	"EMAIL_FSC_SENDER": "<no-reply@kinitopet.com>",
+	"EMAIL_FSC_MESSAGE": "KinitoPET is excited to see you completed the friendship club application and officially joined the KinitoPET friendship club!\n[img=250]res://-Asset/App000/EmailWelcome.png[/img]\n- As a member, you unlock extra features to the KinitoPET virtual assistant that Kinito looks forward to using!\n\nSo why wait? Join the Kinito for endless fun and new exciting experiences as a Kinito friendship club member!\n\n\n\n[color=#9c9a83]\nThis is an automated response, do not reply to this email. (www.kinitopet.com) | Yours sincerely, The Kinito Leisure and Entertainment Company 1999",
 	
 	"WINDOW_TITLE_SETTINGS": "Settings",
 	"WINDOW_TITLE_RESET": "RESET GAME DATA",
@@ -76,7 +137,7 @@
 	
 	"PC_SETTINGS_BACKGROUND": "Background:",
 	
-	"PC_SETTINGS_WINMODE": "[color=#2D2C22]Windowed Mode.[/color] \n* requires  restart    -   Runs the game in windowed mode in a 16:9 aspect ratio.",
+	"PC_SETTINGS_WINMODE": "[color=#2D2C22]AAAAAAAAA.[/color] \n* requires  restart    -   Runs the game in windowed mode in a 16:9 aspect ratio.",
 	"PC_SETTINGS_DESKTOPBG": "[color=#2D2C22]Allow custom desktop background.[/color] \n(will change the desktop background to the same as the\ngame background for added emersion when enabled)",
 	"PC_SETTINGS_DESKTOPEFFECT": "[color=#2D2C22]Allow custom game background effect.[/color] \n(will allow the CRT effect and other custom background\neffects to happen in game)",
 	"PC_SETTINGS_STREAMER": "[color=#2D2C22]Streamer Mode.[/color] \nStops some of the scares that use sensitive info.\n* WILL NOT STOP CAMERA SCARE (windows camera)",
@@ -105,7 +166,7 @@
 	"PC_INTERNET_TYPETO2": "type to search",
 	
 	"PC_INTERNET_S0_HEADER": "New Blog Post:\nMy thoughts on [Term]...",
-	"PC_INTERNET_S0": "                                                  [b][Term][/b] has been a major topic in recent times due to its\n \t\t\t\t\t\t\t\t\t\t\t\t obvious impact on society as a whole!   \n \t\t\t\t\t\t\t\t\t\t\t     This piqued interest has resulted in centuries of science and \n \t\t\t\t\t\t\t\t\t\t\t\t invention to better understand [Term]. \n\t\t\t\t\t\t\t\t\t\t\t\t  That curiosity shall yeild no more! \n\t\t\t\t\t\t\t\t\t\t\t\t  As the answer to the [b][Term][/b] has finally been solved!\n\n\n\nThe recent in-depth study of [b][Term][/b] performed by \n{The Institution Of Global Sciences LTD Limmited INC}\n(TIOFSLLI) has determined that the long awaited solution\nis here! This news is so shocking that {The Non-Profit \nProfitable Research And Development Sector Of The\nUniversally Accepted Sciences} (TNPPRADSOTU) has \ndetermined that the news could be so shocking that most\njust seize up and assend to a greater plane of existence!\n\n \n                                                 With that being said! [b][Term]'s[/b] solution must first be solved! \n\t\t\t\t\t\t\t\t\t\t\t\t And it has been! And that is the fundementals behind why\n\t\t\t\t\t\t\t\t\t\t\t\t are universe operates! [b][Term][/b] is so strucularly important\n\t\t\t\t\t\t\t\t\t\t\t\t to are universe that the removal of it could break the very fabric of reality!\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream",
+	"PC_INTERNET_S0": "                                                  [b][Term][/b] has been a major topic in recent times due to its\n \t\t\t\t\t\t\t\t\t\t\t\t obvious impact on society as a whole!   \n \t\t\t\t\t\t\t\t\t\t\t     This piqued interest has resulted in centuries of science and \n \t\t\t\t\t\t\t\t\t\t\t\t invention to better understand [Term]. \n\t\t\t\t\t\t\t\t\t\t\t\t  That curiosity shall yeild no more! \n\t\t\t\t\t\t\t\t\t\t\t\t  As the answer to the [b][Term][/b] has finally been solved!\n\n\n\nThe recent in-depth study of [b][Term][/b] performed by \n{The Institution Of Global Sciences LTD Limmited INC}\n(TIOFSLLI) has determined that the long awaited solution\nis here! This news is so shocking that {The Non-Profit \nProfitable Research And Development Sector Of The\nUniversally Accepted Sciences} (TNPPRADSOTU) has \ndetermined that the news could be so shocking that most\njust seize up and assend to a greater plane of existence!\n\n \n                                                 With that being said! [b][Term]'s[/b] solution must first be solved! \n\t\t\t\t\t\t\t\t\t\t\t\t And it has been! And that is the fundementals behind why\n\t\t\t\t\t\t\t\t\t\t\t\t are universe operates! [b][Term][/b] is so strucularly important\n\t\t\t\t\t\t\t\t\t\t\t\t to are universe that the removal of it could break the very fabric of reality!\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream\nERROR 404: failed to load stream",
 	
 	"PC_INTERNET_S2_HEADER": "[i]Shop results for:[/i]\nOnline shoping results for [b][Term][/b].",
 	"PC_INTERNET_S2": "[i]The [Term] bag uses its unbearing style and irresistible looks are like no other.\nThe essense [Term] is perfectly enraptured in the unnaturally naturally sourced bamboo weaved bag that is sure to win over anyone at will.\n\n[Term] has been used to represent this bag as we feel its meaning is too deep to be represented in any other form.",
@@ -219,12 +280,39 @@
 	"STORY_PAGE1_1": "[center]But who was it from and who was it for?",
 	
 	"KPET_BFAH_TITLE": "(KinitoPET.exe) - Best Friends Analysis Hub",
+
+	"WINDOW_FCLUB_TITLE": "KinitoPET Friendship Club Membership",
+	"WINDOW_FCLUBWIZARD_TEXT": "This add-on will make changes to the following package: kinitopet.exe (KinitoPET Virtual Assistant)\n\nBy pressing 'Next' you are agreeing to the terms outlined by The Kinito Leisure and Entertainment Company. And the prompted installation to be carried out on your device. Relevant system files will download, please do not turn off your computer as this could cause unwanted corruption of files.\n\n\n\n\nClick Next to continue.",
+	
+	"FORM_FCLUB_DESC": "Please enter your registration information below. This will enable you to\nadd the extension to kinitopet.exe",
+	"FORM_FCLUB_HEADER": "Membership Registered To:",
+	"FORM_FCLUB_FNAME": "First Name:",
+	"FORM_FCLUB_LNAME": "Last Name:",
+	"FORM_FCLUB_EMAIL": "Email:",
+	"FORM_FCLUB_BDAY": "Day:",
+	"FORM_FCLUB_BMONTH": "Month:",
+	"FORM_FCLUB_BYEAR": "Year:",
+	"FORM_FCLUB_ADD1": "Address 1:",
+	"FORM_FCLUB_ADD2": "Address 2:",
+	"FORM_FCLUB_ZIP": "Zip/Postal:",
+	"FORM_FCLUB_COUNTRY": "Country:",
+	"FORM_FCLUB_DISCLAIMER": "only put in your email if you agree to\nbe sent a one-time email\n(this requires Elastic Email to store your email)",
+
+	"WINDOW_FCLUB_REGISTER": "Form Registration",
+	"PC_FCLUB_REGISTER":[
+		"[wave]Packing data to send...",
+		"COMPLETE",
+		"[wave]Establishing Connection to KinitoPET server...",
+		"COMPLETE",
+		"[wave]Sending data to KinitoPET server..."
+	],
+	"FCLUB_REGISTERED":"[center][wave][b]Congratulations[/b][/wave]\n\nYou are now a member",
 	
 	"KPET_YWC_TITLE": "KinitoPET.exe - Compiling (Administrator)",
 	
-	"KPET_YWC_DWNFILE": "%RANDOM%_File [!assets[%%i]! %RANDOM%] downloaded from server [\"kinito\"] %TIME%",
-	"KPET_YWC_MODFILE": "%RANDOM%_Local file [!assets[%%i]! %RANDOM%] modified %TIME%",
-	"KPET_YWC_ASSETC": "%RANDOM%_Assets [!assets[%%i]! %RANDOM%] created %TIME%",
+	"KPET_YWC_DWNFILE": "- %RANDOM%_File [!assets[%%i]! %RANDOM%] downloaded from server [\"kinito\"] %TIME%",
+	"KPET_YWC_MODFILE": "- %RANDOM%_Local file [!assets[%%i]! %RANDOM%] modified %TIME%",
+	"KPET_YWC_ASSETC": "- %RANDOM%_Assets [!assets[%%i]! %RANDOM%] created %TIME%",
 	
 	"KPET_YWC_COMPILEC": "compile = COMPLETE",
 	"KPET_YWC_INIT": "initializing",
@@ -232,10 +320,10 @@
 	
 	"KPET_CMD_TITLE": "Command Prompt",
 	
-	"KPET_CMD_HEADER1": "Operating System [Version 10.0.1999.2000]",
+	"KPET_CMD_HEADER1": "Operating System [Version 10.0.1999.2024]",
 	"KPET_CMD_HEADER2": "(c) Operating Systems. All rights reserved.",
 	
-	"KPET_CMD_ECHO": "'echo' is recognized but I don't feel like running it.",
+	"KPET_CMD_ECHO": "'echo' is recognized but I really hate myself right now, please don't run me.",
 	
 	"KPET_CMD_CONFIRM1": "Please enter valid credentials.",
 	"KPET_CMD_CONFIRM2": "Please enter the target server.",
@@ -256,6 +344,31 @@
 	"KPET_CMD_RMDB": "removing file [!names[%%i]!s_database.txt] from server [\"kinito\"]",
 	"KPET_CMD_RMWRLD": "removing file [!names[%%i]!s_world.zip] from server [\"kinito\"]",
 	"KPET_CMD_RMCORE": "removing core files...",
+
+	"KPET_CMD_RMDONE": "The contents of the (\"kinito\") server were successfully removed.",
+
+	"YWRD_FFAIR_WELTO": "Welcome to:", 
+	"YWRD_FFAIR_CLICK": "[CLICK TO START]", 
+	"YWRD_FFAIR_MINI": "A miniature version of your funfair",
+	"YWRD_FFAIR_SIGN": "Welcome to [name] Land!", 
+
+	"YWRD_HOME_HIGH": "It is too high up", 
+	"YWRD_HOME_PET": "Looks like [petname] the [pettype] is out at the moment", 
 	
-	"KEPT_CMD_RMDONE": "The contents of the (\"kinito\") server were successfully removed."
+	"YWRD_HOME_RADIO": "There is no signal", 
+	"YWRD_HOME_SAD": "A sad painting", 
+	"YWRD_HOME_HAPPY": "A happy painting", 
+	"YWRD_HOME_BFF": "My BFF", 
+	"YWRD_HOME_SELF": "A familiar painting",
+	"YWRD_HOME_FRIDGE": "It is full of [favfood]", 
+	"YWRD_HOME_BOOK": "Super [name] and the ability to [superpower]",
+
+	"YWRD_HOME_FOUNTAIN_1": "ITS TOO LATE FOR YOU",
+	"YWRD_HOME_FOUNTAIN_2": "but not for us",
+	"YWRD_HOME_FOUNTAIN_3": "TRY AGAIN",
+	"YWRD_HOME_FOUNTAIN_4": "the fountain is the key",
+
+	"KPET_NGP_TITLE": "The End?",
+	"KPET_NGP_SMORE": "it is not over yet, there is still more out there...",
+	"KPET_NGP_KGO": "[name] you must keep going..."
 }
